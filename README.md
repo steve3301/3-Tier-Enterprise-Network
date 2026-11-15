@@ -10,6 +10,7 @@
 ![Devices](https://img.shields.io/badge/Devices-8%20+%20PCs-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
+
 </div>
 
 ---
