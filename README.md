@@ -218,7 +218,7 @@ show vlan brief
 
 ## 👤 Author
 
-**Your Name** · [GitHub](https://github.com/steve3301)
+**Shane Steve** · [GitHub](https://github.com/steve3301)
 
 <div align="center">
 
